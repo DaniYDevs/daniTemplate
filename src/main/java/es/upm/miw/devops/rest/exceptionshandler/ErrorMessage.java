@@ -26,7 +26,7 @@ public class ErrorMessage {
 
     @Override
     public String toString() {
-        int alpha = 2;
+        int alpha = 4;
         return "ErrorMessage{" +
                 "error='" + error + '\'' +
                 ", message='" + message + '\'' +
