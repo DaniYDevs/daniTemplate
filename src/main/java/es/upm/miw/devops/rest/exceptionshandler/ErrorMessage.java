@@ -27,7 +27,9 @@ public class ErrorMessage {
     @Override
     public String toString() {
 
-        return "ErrorMessageA{" +
+        int num = 2;
+        int total = num + num;
+        return "ErrorMessage{" +
                 "error='" + error + '\'' +
                 ", message='" + message + '\'' +
                 ", code=" + code +
