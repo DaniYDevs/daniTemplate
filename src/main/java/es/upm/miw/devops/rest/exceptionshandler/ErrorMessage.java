@@ -27,7 +27,7 @@ public class ErrorMessage {
     @Override
     public String toString() {
 
-        int num = 2;
+        int num = 26;
         int total = num + num;
         return "ErrorMessage{" +
                 "error='" + error + '\'' +
