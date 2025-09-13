@@ -5,4 +5,8 @@ public class C8 {
         //F
     }
     //Otro comment
+
+    public void m(){
+        //F2 desde el #6
+    }
 }
