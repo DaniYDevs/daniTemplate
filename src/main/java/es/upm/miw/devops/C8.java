@@ -7,6 +7,6 @@ public class C8 {
     //Otro comment
 
     public void m(){
-        //F2 desde el #6
+        //Hacemos como que arreglamos un problemilla
     }
 }
