@@ -13,7 +13,7 @@
     </parent>
 
     <groupId>es.upm.miw</groupId>
-    <artifactId>daniTemplate</artifactId>
+    <artifactId>danitemplate</artifactId>
     <version>1.2.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>${project.groupId}.${project.artifactId}</name>
